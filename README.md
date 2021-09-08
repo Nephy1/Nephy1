@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nephy1, or Devon L
+- 👋 Hi, I’m @Nephy1, or Devon L.
 - 👀 I’m interested in sports, games, music, and fishing.
 - 🌱 I’m currently learning Web Development at SAIT.
 
