@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nephy1, or Devon L.
-- 🌱 I’m currently a recent Web Developer graduate at SAIT.
+- 🌱 I’m a recent Web Developer graduate at SAIT.
 
 
 <!---
