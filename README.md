@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Nephy1, or Devon L.
-- 🌱 I’m a recent Web Developer graduate at SAIT.
+-  Hi, I’m @Nephy1, or Devon L.
+-  I’m a recent Web Developer graduate at SAIT.
+-  Currently open to employment and internships.
 
 ## Snake Eating Contributions
 ![snake gif](https://github.com/Nephy1/Nephy1/blob/output/github-contribution-grid-snake.svg)
